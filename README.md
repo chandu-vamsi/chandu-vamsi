@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chandu Vamsi, a 25 y/o QA Engineer working at OpenText, Bengaluru, India
+- 👋 Hi, I’m Chandu Vamsi, a 25 y/o QA/DevOps Engineer working at OpenText, Bengaluru, India
 - 👀 I’m interested in Python - Automation & Data Science, Cloud - AWS, Microsoft Azure and building Web applications
 - 🌱 I’m currently learning Microsoft Azure, React JS
 - 💞️ I’m looking to collaborate on building Web Applications and Automation using Python
